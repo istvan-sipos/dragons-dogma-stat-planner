@@ -1,3 +1,3 @@
 ## Dragon's Dogma: Dark Arisen Stat Planner
 
-Please visit [http://stackoverflow.github.io/dragons-dogma-stat-planner](http://stackoverflow.github.io/dragons-dogma-stat-planner) to use it.
+Please visit [http://istvan-sipos.github.io/dragons-dogma-stat-planner](http://istvan-sipos.github.io/dragons-dogma-stat-planner) to use it.
