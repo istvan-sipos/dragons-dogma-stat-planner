@@ -243,6 +243,6 @@ planner.levelUp = function(char, vocation, to, times) {
 
 planner.toggleVanilla = function() {
   planner.vanilla = !planner.vanilla; //toggle state .. vanilla == true means original
-  planner.marcher.to200.mattack = planner.vanilla ? 0 : 1; // alter stat growth values
+  planner.marcher.to200.attack = planner.vanilla ? 0 : 1; // alter stat growth values
   planner.marcher.to200.mdefense = planner.vanilla ? 3 : 2; // ditto
 };
